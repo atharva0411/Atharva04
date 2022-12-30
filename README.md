@@ -1,4 +1,4 @@
-# as01
+# assignment01
 
 BOOTCAMP DAY 01
 
